@@ -75,8 +75,6 @@ I lead product and engineering at KomeshaTech, delivering hosting, custom softwa
 - LinkedIn: https://tz.linkedin.com/in/ismail-komesha
 - GitHub: https://github.com/komesha69
 
-If you’d like a downloadable CV added, upload the PDF to the repository or share a link and I’ll include it.
-
 ---
 
 *I build software engineered for business outcomes — reliable, maintainable, and ready for production.*
