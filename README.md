@@ -47,8 +47,6 @@ I lead product and engineering at KomeshaTech, delivering hosting, custom softwa
 - **Shamba AI** — AI-assisted livestock management and AgriWebb integration (project work)
 - **K POS** — Multi-platform POS & inventory management system (project work)
 
-Notes: the two reference sites above are linked to their live sites (not to code repositories) as requested.
-
 ---
 
 ## What I Build
