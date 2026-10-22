@@ -8,7 +8,7 @@ Building reliable, production-ready software that solves real business problems:
 
 ## About
 
-I design and build practical full-stack solutions that match business needs and operational reality. My work spans frontend and backend engineering — user-centered interfaces, APIs, database design, integrations, and deployment pipelines. I prioritize maintainability, performance, and delivering measurable business value.
+I design and build practical full-stack solutions that match business needs and operational reality. My work spans frontend and backend engineering — user-centered interfaces, APIs, database design, infrastructure, and product delivery for business-critical systems.
 
 ---
 
@@ -18,7 +18,7 @@ I design and build practical full-stack solutions that match business needs and 
 
 Email: info@komeshatech.com
 
-I lead product and engineering at KomeshaTech, delivering hosting, custom software, and digital transformation services for businesses. I focus on dependable production systems, integrations, and operational support.
+I lead product and engineering at KomeshaTech, delivering hosting, custom software, and digital transformation services for businesses. I focus on dependable production systems, integrations, and practical software that helps teams operate efficiently.
 
 ---
 
@@ -45,7 +45,7 @@ I lead product and engineering at KomeshaTech, delivering hosting, custom softwa
 - **JJ Wildpeak Adventures** — http://jjwildpeakadventures.com/ (Reference work — live site)
 - **HeritageGroup TZ** — http://heritagegrouptz.com/ (Reference work — live site)
 - **Shamba AI** — AI-assisted livestock management and AgriWebb integration (project work)
-- **K POS** — Multi-platform POS & inventory management system (project work)
+- **K POS** — https://pos.komeshatech.com/ (Multi-platform POS & inventory management system)
 
 ---
 
@@ -74,6 +74,7 @@ I lead product and engineering at KomeshaTech, delivering hosting, custom softwa
 - Website: https://komeshatech.com
 - LinkedIn: https://tz.linkedin.com/in/ismail-komesha
 - GitHub: https://github.com/komesha69
+- K POS: https://pos.komeshatech.com/
 
 ---
 
